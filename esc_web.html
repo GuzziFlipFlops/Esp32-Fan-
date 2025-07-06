@@ -1,1 +1,20 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ESP32 ESC Control</title>
+</head>
+<body>
+  <h2>ESC Speed Control</h2>
+  <input type="range" min="0" max="100" value="0" id="speedSlider" oninput="updateSpeed(this.value)">
+  <p>Speed: <span id="speedValue">0</span>%</p>
+
+  <script>
+    function updateSpeed(value) {
+      document.getElementById("speedValue").innerText = value;
+      fetch("/?speed=" + value);
+    }
+  </script>
+</body>
+</html>
+
