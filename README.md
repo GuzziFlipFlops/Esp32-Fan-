@@ -1,1 +1,1 @@
-esp32 based fan that uses a 2400kv drone brushless motor, it uses a esp32 c3 that comes with a built in 0.42 inch oled display. To control the fan, a web server is created on the esp32. The throttle amount is also shown on the built in display. 
+esp32 based handheld fan that uses a 2400kv drone brushless motor, it uses a esp32 c3 that comes with a built in 0.42 inch oled display. To control the fan, a web server is created on the esp32. The throttle amount is also shown on the built in display. Its a cheap summer project, and costs ~8 dollars. 
