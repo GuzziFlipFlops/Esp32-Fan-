@@ -3,4 +3,8 @@ esp32 based handheld fan that uses a 2400kv drone brushless motor, it uses a esp
 
 Link to my video:
 
-https://youtube.com/shorts/SDpjRP2YPMM 
+<p align="center">
+  <a href="https://youtube.com/shorts/SDpjRP2YPMM">
+    <img src="https://img.youtube.com/vi/SDpjRP2YPMM/hqdefault.jpg" alt="Watch the video" />
+  </a>
+</p>
