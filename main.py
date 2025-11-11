@@ -5,7 +5,7 @@ import time
 import ssd1306
 
 
-SSID = "YOUR_WIFI_NAME"
+SSID = "YOUR_WIFI_NAME" #Currentlty in station mode, not acccess point
 PASSWORD = "YOUR_WIFI_PASSWORD"
 
 
