@@ -14,3 +14,13 @@ https://youtube.com/shorts/SDpjRP2YPMM
 
 
 
+Ambilight Project Hardware Specifications
+
+This table outlines the core electronic components, their links, and approximate costs for the project.
+
+| Device | Link | Cost |
+| ESP32 (Microcontroller) | AliExpress Link | ~$2 |
+| Motor Controller (L298N/Similar) | AliExpress Link | ~$3 |
+| Motor (Armattan Oomph Titan) | Armattan Quads Link | $5 |
+
+Estimated Total Component Cost (Minimum): ~$10
